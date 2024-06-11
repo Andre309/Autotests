@@ -1,6 +1,4 @@
 const axios = require("axios");
-// const { expect } = require('chai')
-//const { expect } = require('chai')
 
 const axiosInstanse = axios.create({
   baseURL: "https://jsonplaceholder.typicode.com/",
